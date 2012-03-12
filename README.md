@@ -1,1 +1,1 @@
-Javascript implementation of Apache Velocity 
+Javascript implementation of Apache Velocity http://velocity.apache.org/
